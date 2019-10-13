@@ -17,7 +17,7 @@ pipeline {
         DOCKERHUB_NAMESPACE = 'rdzndockerhub'
         GITHUB_ACCOUNT = 'rdzn-github'
         APP_NAME = 'devops-java-sample'
-        SONAR_CREDENTIAL_ID= '88f1fc5321fc79218a2a4f6f3bb0c7d6ffe90e78'
+        SONAR_CREDENTIAL_ID= 'devops-java-sample'
     }
 
     stages {
